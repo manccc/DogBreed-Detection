@@ -8,3 +8,4 @@ opencv_python
 numpy
 streamlit
 tensorflow
+protobuf==3.20
